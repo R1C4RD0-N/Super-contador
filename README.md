@@ -8,10 +8,10 @@
   Quarto: aperte o botão e o resultado virá instantaneamente.<br>
 </ul>
 <p>
-  Tecnologias utilizadas: HTML, CSS e JavaScript 
+   ● Tecnologias utilizadas: HTML, CSS e JavaScript 
 </p>
 <p>
-  O que aprendi: Manipulação do Dom, Uso de funções, Estrutura condicional e Estrutura de repetição (for)
+   ● O que aprendi: Manipulação do Dom, Uso de funções, Estrutura condicional e Estrutura (for)
 </p>
 
 ![SmartSelect_20260213_155127_Spck Editor](https://github.com/user-attachments/assets/d8525e79-a09b-4d6c-8a65-dba4082a909e)
